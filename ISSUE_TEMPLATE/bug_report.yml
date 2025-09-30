@@ -1,0 +1,36 @@
+name: Bug report
+description: File a bug report (non-security)
+title: "bug: "
+labels: [bug]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for filing a report! Please **do not** use this for security issues — report those privately via Discord.
+  - type: input
+    id: repo
+    attributes:
+      label: Affected repository
+      placeholder: e.g., pgdn-scanners
+  - type: input
+    id: version
+    attributes:
+      label: Version / commit
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug and how to reproduce it.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / output
+      render: shell
+  - type: input
+    id: env
+    attributes:
+      label: Environment
+      placeholder: OS, Python/Node/Go version, Docker/K8s, etc.

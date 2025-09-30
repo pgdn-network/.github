@@ -1,0 +1,26 @@
+name: Feature request
+description: Propose an idea or improvement
+title: "feat: "
+labels: [enhancement]
+assignees: []
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: What's the user problem this solves?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: Summarize your idea.
+  - type: textarea
+    id: alt
+    attributes:
+      label: Alternatives considered
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
