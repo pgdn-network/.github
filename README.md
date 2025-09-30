@@ -23,5 +23,4 @@ Do **not** open public issues for vulnerabilities. Report them privately via Dis
 See [SECURITY.md](SECURITY.md) for details.
 
 ## License
-Unless otherwise noted, files are under the [MIT License](https://opensource.org/licenses/MIT).  
-“PGDN” is a trademark of Polkaspots Ltd.
+Unless otherwise noted, files are under the [MIT License](https://opensource.org/licenses/MIT).
