@@ -14,7 +14,7 @@ Any file here automatically applies to all repositories in the org.
 - **FUNDING.yml** — optional funding links.
 
 ## Contact
-- **Discord:** [https://discord.com/invite/fJx4fCPN](join the community), ask questions, or report issues privately.  
+- **Discord:** [join the community](https://discord.com/invite/fJx4fCPN), ask questions, or report issues privately.  
 - **Research & Reports:** see [pgdn.ai](https://pgdn.ai) and the [research hub](https://pgdn.ai/research).  
 - **GitHub Issues:** for non-security bugs and feature requests, use the appropriate repo.
 
